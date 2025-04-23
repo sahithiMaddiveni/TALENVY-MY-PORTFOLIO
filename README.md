@@ -38,7 +38,14 @@ In summary, this portfolio website is more than just a design project—it’s a
 
 #OUTPUT 
 
-
+![Image](https://github.com/user-attachments/assets/845475fb-4017-4b68-bc24-ac25cd12f30f)
+![Image](https://github.com/user-attachments/assets/fdb9dc28-0581-4eb8-ac29-3dc53cc49d08)
+![Image](https://github.com/user-attachments/assets/354aa7fb-8fce-4df1-8cfa-cc1053500467)
+![Image](https://github.com/user-attachments/assets/fb1bbf58-322d-4fc3-9065-61ddcd02afd3)
+![Image](https://github.com/user-attachments/assets/51458b25-f416-4c6f-8096-1539279fcc30)
+![Image](https://github.com/user-attachments/assets/36de4d18-0000-41f4-bedd-71fc66e941c8)
+![Image](https://github.com/user-attachments/assets/a8754fd4-736e-402e-b905-df36644bd886)
+![Image](https://github.com/user-attachments/assets/e9b8e21f-7195-4aaa-bccc-d134c688829d)
 
 
 
